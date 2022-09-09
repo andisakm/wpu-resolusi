@@ -1,5 +1,5 @@
 # wpu-resolusi
 repository wpu untuk kedepannya 
 membuat kue
-menjadi chef
+menjadi seperti wonder women
 mengikuti master chef
